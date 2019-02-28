@@ -7,8 +7,8 @@ var lunBo_start = setInterval(function(){
         repeat = 4
     }
     else{
-        $("img.lunbo").attr("src","../img/lunbo"+repeat+".png")
-        $(".gundong").css("background",'url("../img/lunbo"+repeat+"_x.png")')
+        $("img.lunbo").attr("src","./img/lunbo"+repeat+".png")
+        $(".gundong").css("background",'url("./img/lunbo"+repeat+"_x.png")')
         repeat -- ;
     }
 },3000)
@@ -23,7 +23,7 @@ $(".lunbo_zuo").click(function(){
     }
     else{
     repeat = repeat-1  ;
-    $("img.lunbo").attr("src","../img/lunbo"+repeat+".png")
+    $("img.lunbo").attr("src","./img/lunbo"+repeat+".png")
     }
 })
 $(".lunbo_you").click(function(){
@@ -32,7 +32,7 @@ $(".lunbo_you").click(function(){
     }
     else{
     repeat = repeat+1  ;
-    $("img.lunbo").attr("src","../img/lunbo"+repeat+".png")
+    $("img.lunbo").attr("src","./img/lunbo"+repeat+".png")
     }
 })
 $(".body_right_top_btn").click(function(){
