@@ -77,7 +77,7 @@ var model = ""
 var musicName_list = []
 
 $.ajax({
-    url:"https://brandonxcc.top:8080/MyNetEase/play",
+    url:"http://brandonxcc.top:8080/MyNetEase/play",
     type : "get",
     dateType:"json",
     jsonp:"callback",
