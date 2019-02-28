@@ -1,5 +1,5 @@
 $(".top_search").click(function(){
-    window.location.href='search_album.html'
+    window.location.href='./html/search_album.html'
     
 })
 
@@ -91,36 +91,36 @@ $(".search_logo_album").click(function(){
  })
  
 $(".singer_music_table_div").click(function(){
-    window.location="./music_play.html"
+    window.location="./html/music_play.html"
 })
 $(".search_result_img").click(function(){
-    window.location="./zhanghuimei.html"
+    window.location="./html/zhanghuimei.html"
 })
 
 
 
 $(".search_all_bottom_li1_2").click(function(){
-    window.location.href='search_sing.html'
+    window.location.href='./html/search_sing.html'
 })
 $(".search_all_bottom_li1_1").click(function(){
-    window.location.href='search_sing.html'
+    window.location.href='./html/search_sing.html'
 })
 $(".search_all_bottom_li1").click(function(){
-    window.location.href='search_sing.html'
+    window.location.href='./html/search_sing.html'
 })
 $(".search_all_bottom_li2_2").click(function(){
-    window.location.href='search_song.html'
+    window.location.href='./html/search_song.html'
 })
 $(".search_all_bottom_li2_1").click(function(){
-    window.location.href='search_song.html'
+    window.location.href='./html/search_song.html'
 })
 $(".search_all_bottom_li2").click(function(){
-    window.location.href='search_song.html'
+    window.location.href='./html/search_song.html'
 })
 $(".search_all_bottom_li3").click(function(){
-    window.location.href='search_album.html'
+    window.location.href='./html/search_album.html'
 })
 $(".search_all_bottom_li3_2").click(function(){
-    window.location.href='search_album.html'
+    window.location.href='./html/search_album.html'
 })  
  
