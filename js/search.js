@@ -91,10 +91,10 @@ $(".search_logo_album").click(function(){
  })
  
 $(".singer_music_table_div").click(function(){
-    window.location="./html/music_play.html"
+    window.location="../html/music_play.html"
 })
 $(".search_result_img").click(function(){
-    window.location="./html/zhanghuimei.html"
+    window.location="../html/zhanghuimei.html"
 })
 
 
