@@ -1,0 +1,59 @@
+[hidefocus]{
+    outline: none;
+}
+
+#gundong {
+    width: 1262;
+    height: 336;
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    background: url("../img/lunbo1_x.png");
+    position: relative;
+    bottom: 70;
+}
+.lunbo {
+    float: left;
+    
+
+}
+.down_p {
+    width: 254;
+    height: 336;
+    background-color: brown;
+}
+.down {
+    float: left;
+    width: 254;
+    height: 336;
+    
+}
+/* .down_low {
+    width: 254;
+    height: 39;
+} */
+.lunbo_zuo {
+    margin-left: 60;
+    width:0;
+    height:0;
+    display:block;
+  
+    
+    border-top:40px transparent dashed;
+    border-left:40px transparent dashed;
+    border-bottom:40px transparent dashed;
+    border-right:40px blue solid;
+    overflow:hidden;
+    cursor:pointer;
+}
+.lunbo_you {
+    width:0;
+    height:0;
+    display:block;
+    border-top:40px transparent dashed;
+    border-right:40px transparent dashed;
+    border-bottom:40px transparent dashed;
+    border-left:40px blue solid;
+    overflow:hidden;
+    cursor:pointer;
+} 

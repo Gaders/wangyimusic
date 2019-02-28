@@ -1,0 +1,152 @@
+
+.music_img {
+    width: 500;
+    height: 500;
+    background-color: aqua;
+    margin: 0 auto;
+    border: 1px black solid
+
+}
+.music_action {
+    width: 600;
+    height: 100;
+    background-color: rgb(105, 154, 218);
+    margin: 0 auto;
+}
+.play_up{
+    width: 50;
+    height: 20;
+    position: relative; 
+}
+.play_down{
+    width: 50;
+    height: 20;
+    position: relative;
+    
+}
+.play_this {
+    width: 50;
+    height: 50;
+    border-radius: 50%;
+    cursor: pointer;
+    
+}
+.music_action {
+    text-align: center
+}
+.jindu_all {
+    width: 500;
+    height: 10;
+    background-color: black;
+    margin:  0 auto;
+    margin-top: 15;
+    cursor: pointer;
+}
+.jindu_now {
+    width: 0;
+    height: 10;
+    background-color: red;
+}
+.music_ul {
+    width: 459;
+    height: 200;
+    list-style: none;
+    
+    background-color: white;
+    border: 1px black solid
+   
+}
+.music_li {
+    width: 500;
+    height: 40;
+    background-color: white;
+    border: 1 solid
+}
+.shunxu {
+    width: 50;
+    height: 20;
+    background-color: white;
+    float: left;
+    cursor: pointer;
+    text-align: center;
+    border: 1px #000 solid
+}
+.suiji {
+    width: 50;
+    height: 20;
+    background-color: white;
+    clear: both;
+    float: right;
+    cursor: pointer;
+    text-align: center;
+    border: 1px #000 solid;
+    position: relative;
+    bottom: 21;
+}
+.xunhuan {
+    width: 70;
+    height: 20;
+    background-color: white;
+    margin: 0 auto;
+    cursor: pointer;
+    text-align: center;
+    border: 1px #000 solid
+}
+.music_all {
+    width: 500;
+    height: 200;
+    position: relative;
+    top: 40;
+}
+
+.music_li {
+   
+    height: 22;
+    cursor: pointer;
+    position: relative;
+    right: 40;
+}
+.voice_all {
+    width: 10;
+    height: 60;
+    background-color: red;
+    position: relative;
+    left: 570;
+    bottom: 80;
+}
+.voice_now {
+    width: 10;
+    height: 60;
+    background-color: black;
+    
+}
+.danmu {
+    width: 90%;
+    height: 22;
+    
+}
+.fasongdanmu {
+    width: 45;
+    position: relative;
+    bottom: 5
+}
+.danmuDom {
+    width: 100%;
+    height: 21%;
+}
+.start {
+    position: absolute;
+    color: red;
+    animation: myfirst 5s linear;
+    
+    
+}
+
+
+@keyframes myfirst
+{
+from {left: 380;}
+to {left: 0;}
+
+}
+

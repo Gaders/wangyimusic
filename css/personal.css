@@ -1,0 +1,24 @@
+.left{
+    width: 200;
+    height: 800;
+    background-color: aqua;
+    float: left;
+
+}
+.right {
+    width: 800;
+    height: 800;
+    background-color: blue;
+    float: left;
+}
+.left_title {
+    text-align: center;
+    
+}
+.left_ul {
+    list-style: none;
+}
+.left_li {
+    margin-top: 20;
+    text-indent: -20;
+}

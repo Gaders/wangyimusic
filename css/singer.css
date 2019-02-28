@@ -1,0 +1,143 @@
+.singer {
+    width: 709;
+    height: 1000;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+.singer_all {
+    width: 640;
+    height: 900;
+    
+}
+.singer_top{
+    width: 640;
+    height: 331;
+
+}
+.singer_top_h2 {
+    float: left;
+    color: #000;
+}
+.singer_top_h3 {
+    float: left;
+    color: #666;
+    font-size: 15;
+    position: relative;
+    top: 10;
+    margin-left: 10
+}
+.singer_top_img {
+    width: 640;
+    height: 300;
+    background: url("../img/zhm.png") no-repeat;
+    position: relative;
+    top: 31;
+}
+.singer_list {
+    width: 640;
+    height: 39;
+}
+.singer_list_ul {
+    width: 640;
+    height: 39;
+    margin-left: -40
+}
+
+
+
+
+
+
+
+.singer_list_li {
+    background: url("../img/tab.png?24aad15cd0425597218d3365083291b9")no-repeat;
+    width: 136;
+    height: 39;
+    list-style: none;
+    float: left;
+}
+
+.singer_list_a_redline {
+    width: 136;
+    height: 1;
+    background-color: red;
+}
+.singer_list_rmzp {
+    position: relative;
+    left: 30;
+    top: 5;
+    text-decoration: none;
+}
+.singer_list_li_line1{
+    width: 1;
+    height: 39;
+    background-color: rgb(204, 204, 204);
+    float: left;
+}
+
+
+ul {
+    list-style: none;
+}
+
+.singer_music{
+    width: 640;
+    height: 400;
+}
+.singer_music_info{
+    width: 640;
+    height: 400;
+    
+}
+.title_h1 {
+    font-size: 15;
+    text-indent: 10
+}
+.li_test {
+    text-indent: -30;
+    margin-top: 10;
+    font-size: 12
+}
+.singer_music_jianjie{
+    text-indent: 100;
+    font-size: 12;
+    line-height: 3;
+    
+}
+.music_list_ul {
+    width: 640;
+    height: 180;
+    list-style: none;
+    position: relative;
+    right: 40;
+}
+.music_list_li {
+    width: 640;
+    height: 20;
+    background-color: rgb(155, 153, 153);
+    margin-top: 20
+
+}
+.shouCang {
+    height: 20;
+    float: right;
+    color: #666;
+    position: relative;
+    bottom: 20;
+    cursor: pointer;
+}
+.gedanming {
+    margin: 0 auto;
+    color: #666;
+    margin-left: 250;
+    margin-bottom: 40;
+}
+.chuangjian {
+    width: 100;
+    height: 20;
+    border: 1px rgb(133, 131, 131) solid;
+    margin: 0 auto;
+    cursor: pointer;
+}
