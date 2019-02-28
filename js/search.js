@@ -91,7 +91,7 @@ $(".search_logo_album").click(function(){
  })
  
 $(".singer_music_table_div").click(function(){
-    window.location="./zhanghuimei.html"
+    window.location="../html/zhanghuimei.html"
 })
 
 
