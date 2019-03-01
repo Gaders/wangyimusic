@@ -1,5 +1,5 @@
 $(".top_search").click(function(){
-    window.location.href='search_album.html'
+    window.location.href='./search_album.html'
     
 })
 
@@ -100,27 +100,27 @@ $(".search_result_img").click(function(){
 
 
 $(".search_all_bottom_li1_2").click(function(){
-    window.location.href='search_sing.html'
+    window.location.href='./search_sing.html'
 })
 $(".search_all_bottom_li1_1").click(function(){
-    window.location.href='search_sing.html'
+    window.location.href='./search_sing.html'
 })
 $(".search_all_bottom_li1").click(function(){
-    window.location.href='search_sing.html'
+    window.location.href='./search_sing.html'
 })
 $(".search_all_bottom_li2_2").click(function(){
-    window.location.href='search_song.html'
+    window.location.href='./search_song.html'
 })
 $(".search_all_bottom_li2_1").click(function(){
-    window.location.href='search_song.html'
+    window.location.href='./search_song.html'
 })
 $(".search_all_bottom_li2").click(function(){
-    window.location.href='search_song.html'
+    window.location.href='./search_song.html'
 })
 $(".search_all_bottom_li3").click(function(){
-    window.location.href='search_album.html'
+    window.location.href='./search_album.html'
 })
 $(".search_all_bottom_li3_2").click(function(){
-    window.location.href='search_album.html'
+    window.location.href='./search_album.html'
 })  
  
