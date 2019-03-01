@@ -1,5 +1,5 @@
 $(".top_search").click(function(){
-    window.location.href='./search_album.html'
+    window.location.href='./html/search_album.html'
     
 })
 

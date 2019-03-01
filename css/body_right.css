@@ -3,8 +3,9 @@
     height: 920;
    
     float: left;
-    position: relative;
-    top :-220
+    position: absolute;
+    top :500;
+    margin-left: 1000;
     
 }
 .body_right_top {
